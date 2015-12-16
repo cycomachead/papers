@@ -1,0 +1,3 @@
+[submodule "hangperson-beta"]
+	path = hangperson-beta
+	url = https://github.com/cycomachead/hangperson-beta.git
